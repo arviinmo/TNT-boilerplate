@@ -28,4 +28,4 @@ use this guide to get started with TNT:
 
 **License**
 <br>
-​[MIT License](https://github.com/arviinmo/TNT-boilerplate/blob/main/LICENSE), Copyright © 2022-present
+​[MIT License](https://github.com/arviinmo/TNT-boilerplate/blob/main/LICENSE)
