@@ -5,25 +5,29 @@ export default function Home() {
     <div className="px-8 py-0">
       <Head>
         <title>TNT - Nextjs boilerplate Super-Power</title>
-        <meta name="description" content="nextjs boilerplate created by Arvin Mostafaei" />
-        <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="nextjs boilerplate created by Arvin Mostafaei"
+        />
+        <link rel="icon" href="/favicon.ico"/>
       </Head>
       <main className="flex flex-col items-center justify-center flex-grow min-h-screen px-0 py-16">
         <h1 className="m-0 text-6xl">
           Welcome to{" "}
-          <a className="text-blue-600 no-underline" href="https://nextjs.org">
-            Next.js!
+          <a
+            className="text-blue-600 no-underline"
+            href="https://github.com/arviinmo/TNT-boilerplate"
+            title="TypeScript + Nextjs + Tailwind"
+          >
+            TNT!
           </a>
         </h1>
 
-        <p className="mx-0 my-10 text-2xl leading-normal">
-          Get started by editing{" "}
-          <code className="p-3 text-lg bg-gray-100 rounded">
-            pages/index.js
-          </code>
+        <p className="mx-0 my-10 mt-4 text-3xl leading-normal">
+          customized Nextjs boilerplate
         </p>
 
-        <div className="flex flex-wrap items-center justify-center max-w-[800px]">
+        <div className="flex flex-wrap items-center justify-center max-w-[800px] mt-10">
           <a
             href="https://nextjs.org/docs"
             className="p-6 m-4 text-left no-underline border border-solid max-w-[300px] hover:text-blue-600 hover:border-blue-600 focus:text-blue-600 focus:border-blue-600 active:text-blue-600 active:border-blue-600"
