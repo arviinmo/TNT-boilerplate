@@ -2,8 +2,9 @@
 
 <img align="center" width="1000" height="500" src="https://repository-images.githubusercontent.com/515960347/469114f0-7051-4647-aeae-c9475c2c2cc7" />
 <br>
+
 ## About
-TNT template is a combination of Nextjs, Tailwind, Typescript and ...
+This is TNT, Nextjs boilerplate powered by Typescript, Tailwind. This template also has customized ESLint + Prettier configuration for better code structuring and lesser bugs and errors. This template first was created for personal uses but then made public by the [author](https://github.com/arviinmo) to be used by other developers around the world.
 
 ## been used in TNT:
 - [Next.js](https://nextjs.org/)
@@ -27,4 +28,4 @@ use this guide to get started with TNT:
 
 **Others**
 <br>
-​[MIT License](https://github.com/arviinmo/TNT-boilerplate/blob/main/LICENSE)
+​[MIT License](https://github.com/arviinmo/TNT-boilerplate/blob/main/LICENSE) Licensed, Copyright © 2022-present
