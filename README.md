@@ -23,3 +23,5 @@ $ yarn dev
 **or**
 use this guide to get started with TNT:
 [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+​[MIT License] (https://github.com/arviinmo/TNT-boilerplate/blob/main/LICENSE)
