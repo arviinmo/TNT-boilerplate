@@ -23,6 +23,7 @@ $ yarn
 $ yarn dev
 ```
 **or**
+<br>
 use this guide to get started with TNT:
 [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
