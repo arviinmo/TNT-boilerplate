@@ -8,9 +8,9 @@ TNT template is a combination of Nextjs, Tailwind, Typescript and ...
 - [Next.js](https://nextjs.org/)
 - [TypeSript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Vercel](https://vercel.com)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [Vercel](https://vercel.com)
 
 ## Running Locally
 
