@@ -4,7 +4,7 @@
 <br>
 TNT template is a combination of Nextjs, Tailwind, Typescript and ...
 
-# technologies that have been used in TNT.
+## been used in TNT:
 - [Next.js](https://nextjs.org/)
 - [TypeSript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
