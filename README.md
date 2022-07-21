@@ -11,3 +11,15 @@ TNT template is a combination of Nextjs, Tailwind, Typescript and ...
 - [Vercel](https://vercel.com)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+
+## Running Locally
+
+```bash
+$ git clone https://github.com/arviinmo/TNT-boilerplate.git
+$ cd TNT-bilerplate
+$ yarn
+$ yarn dev
+```
+**or**
+use this guide to get started with TNT:
+[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
